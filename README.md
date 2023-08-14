@@ -6,7 +6,7 @@ The purpose of this project was to work collaboratively in a group to build an a
 
 ## Usage
 
-To use this app you will need to access it in the browser. Type your local zip code in the search box. Five local golf courses, liquor stores, and the local weather will be displayed in the boxes on the wed page.
+To use this app you will need to access it in the browser. Type your local zip code in the search box. Five local golf courses, liquor stores, and the local weather will be displayed in the boxes on the web page.
 
 ## Credits
 
